@@ -4,12 +4,12 @@
 
 **À la racine du projet**
 
-Télécharger les données MNIST : `./download.sh"`
-Compiler le programme : `make`
+- Télécharger les données MNIST : `./download.sh"`
+- Compiler le programme : `make`
 
 ## Lancement
 
-Exécuter : `bin/neural` , une fois la compilation terminée.
+- Exécuter : `bin/neural` , une fois la compilation terminée.
 
 ## Informations
 
