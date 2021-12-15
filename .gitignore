@@ -1,6 +1,4 @@
 .DS_Store
 .vscode
-bin/*
-obj/*
 data/*
 test/*
